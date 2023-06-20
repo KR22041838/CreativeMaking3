@@ -1,4 +1,8 @@
-// Code creation aided by ChatGtP
+/* Code adapted from:
+https://www.youtube.com/watch?v=_RzhCQx3PUc&t=189se
+https://www.youtube.com/watch?v=5ElKFY3N1zs
+and aided by ChatGTP to expland code function. 
+*/
 
 
 using System.Collections; 
