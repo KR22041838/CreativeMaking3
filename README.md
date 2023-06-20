@@ -1,4 +1,4 @@
-# CreativeMaking3
+# Arduino-Unity Toy Shop Memory Game
 
 
 For this project I have explored the incorporation of a physical memory game using flashing LEDs, with a Game environment and alternative controller.
