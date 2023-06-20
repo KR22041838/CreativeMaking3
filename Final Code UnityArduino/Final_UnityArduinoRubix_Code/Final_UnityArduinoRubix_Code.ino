@@ -1,5 +1,6 @@
 // Final code for Adruino and Unity Communication using a touch capacitor and LED's.
-/* The code has been adapted from This:
+// Memory Game adapted from https://projecthub.arduino.cc/Jerepondumie/make-an-arduino-memory-game-c9c093
+/* Capacitive Touch code has been adapted from:
 
 This a library for the MPR121 12-channel Capacitive touch sensor
 
