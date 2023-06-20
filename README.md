@@ -20,7 +20,7 @@ One thing that really helped my arduino code interact smoothly with Unity was to
 # Fourth Iteration
 For the forth iteration I still hadn't managed to get unity to distinguish between a button push and the correct button push. I also struggled to get the code to repeat the sequence like in the original memory game after the button has been pressed. The game has turned more into a chase the light game. It does however flash a looser sequence when you time out. 
 
-## I wanted the unity the unity scene to look like a dilapidated toy shop that sits in relative darkness, with only the LED’s flashing the memory sequence. And then, only when you press the buttons the unity Lights turn on and you see a glimpse of the slightly creepy looking toy shop.
+### I wanted the unity the unity scene to look like a dilapidated toy shop that sits in relative darkness, with only the LED’s flashing the memory sequence. And then, only when you press the buttons the unity Lights turn on and you see a glimpse of the slightly creepy looking toy shop.
 
 # Alternative Controller 
 To make an alternative controller I used a rubix cube as it fits in the theme of a toy shop along with a Capacitive Touch Sensor and copper tape. I originally wanted the user to have to rotate the cube to align the required colours to match the light colour of unity. However, I ran out of time and it needed a lot of time to work out moving parts and wires, and there is no way of knowing if a line of the right colour has been matched up before the capacitive touch sends the ‘button press’ data.
