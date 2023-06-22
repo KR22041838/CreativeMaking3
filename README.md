@@ -29,3 +29,13 @@ To make an alternative controller I used a rubix cube as it fits in the theme of
 To conclude, I am happy with the progression of the project even thought the outcome of a memory game was not met, and it is more of a chase the light game. Though this could be changed into a speed game as the time-out function works to end the game if you do not press the buttons fast enough.
 
 I found scripting in Unity hard as I was not familiar with C# and used ChatGTP to help at times, however the code would crash a lot when trying to run in game mode without any errors popping up so it was hard to troubleshoot other than reverting to the last useable code. To improve the code in future I would create a game manager script to call on the different elements needed as I think part of the reason for all the crashing is putting all the code in one script. I would like to have spent more time making the toyshop look good as I wanted to make some creepy teddies in Blender but ran out of time and used prefabs. I’m not overly happy with the rubix cube controller, but I really like the possibilities of a kinetic controller and would like to explore this. Having to form certain colour formations on the rubix cube to press a ‘button’ would add an extra layer of skill and difficulty to a simple memory or time limited game. 
+
+Code References:
+Original Arduino Memory Game:
+https://projecthub.arduino.cc/Jerepondumie/make-an-arduino-memory-game-c9c093
+Capacitive Touch Sensor:
+https://learn.adafruit.com/adafruit-mpr121-12-key-capacitive-touch-sensor-breakout-tutorial/wiring
+Flashing LED Arduino using Unity:
+https://www.bing.com/videos/riverview/relatedvideo?q=(7)+Blink+an+LED+from+Unity+to+Arduino+-+Uduino+Video+Tutorial+-+YouTube&mid=A0CD4E667179B05E2A4CA0CD4E667179B05E2A4C
+Connecting Unity and Arduino
+https://www.bing.com/videos/riverview/relatedvideo?q=(7)+How+to+Connect+Arduino+to+Unity%3f+%231+Serial+Communication+between+Arduino+and+Unity.+-+YouTube&mid=2A4A174B7068F155193F2A4A174B7068F155193F
